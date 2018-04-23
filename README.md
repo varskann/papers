@@ -15,5 +15,9 @@ ___
 - Net2Net: ACCELERATING LEARNING VIA KNOWLEDGE TRANSFER [[paper](https://arxiv.org/pdf/1511.05641.pdf)][[review](https://github.com/varskann/papers/blob/master/reviews/Net2Net.md)]
 
 
+### 2015
+- Fast R-CNN[[paper](https://arxiv.org/pdf/1504.08083.pdf)][[review](https://github.com/varskann/papers/blob/master/reviews/FRCN.md)]
+
+
 ### 2014
 - R-CNN: Rich feature hierarchies for accurate object detection and semantic segmentation[[paper](https://arxiv.org/pdf/1311.2524.pdf)][[review](https://github.com/varskann/papers/blob/master/reviews/RCNN.md)]

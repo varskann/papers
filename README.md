@@ -19,5 +19,7 @@ A brief summary of CV / ML papers
 
 - FaceNet: A Unified Embedding for Face Recognition and Clustering[[paper](https://arxiv.org/pdf/1503.03832.pdf)][[review](https://github.com/varskann/papers/blob/master/reviews/FaceNet.md)]
 
+- Faster R-CNN[[paper](https://arxiv.org/pdf/1506.01497.pdf)][[review](https://github.com/varskann/papers/blob/master/reviews/FasterRCNN.md)]
+
 ### 2014
 - R-CNN: Rich feature hierarchies for accurate object detection and semantic segmentation[[paper](https://arxiv.org/pdf/1311.2524.pdf)][[review](https://github.com/varskann/papers/blob/master/reviews/RCNN.md)]

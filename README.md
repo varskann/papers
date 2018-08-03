@@ -13,6 +13,9 @@ A brief summary of CV / ML papers
 ### 2016
 - Net2Net: ACCELERATING LEARNING VIA KNOWLEDGE TRANSFER [[paper](https://arxiv.org/pdf/1511.05641.pdf)][[review](https://github.com/varskann/papers/blob/master/reviews/Net2Net.md)]
 
+- Binarized Neural Networks: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1[[paper](https://arxiv.org/pdf/1602.02830.pdf)][[review](https://github.com/varskann/papers/blob/master/reviews/BNNmd)]
+
+
 
 ### 2015
 - Fast R-CNN[[paper](https://arxiv.org/pdf/1504.08083.pdf)][[review](https://github.com/varskann/papers/blob/master/reviews/FRCN.md)]

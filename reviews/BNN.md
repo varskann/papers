@@ -37,3 +37,4 @@ _**Notes**_
 1. For a _k_ size kernel, number of unique convolution features is 2<sup>k<sup>2</sup></sup>
 2. On MNIST, Cifar-10 and SVHN dataaset, near state-of-art results
 3. Training convergence time increases but eventually reaches the same loss/accuracy
+4. Key operation of deep learning (Multiply-Accumulate) is replaced by 1-bit XNOR count operations

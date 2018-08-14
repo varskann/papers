@@ -9,6 +9,7 @@ A brief summary of CV / ML papers
 ### 2017
 - VPGNet: Vanishing Point Guided Network for Lane and Road Marking Detection and Recognition [[paper](https://arxiv.org/pdf/1710.06288.pdf)][[review](https://github.com/varskann/papers/blob/master/reviews/VPGNet.md)]
 
+- Eye In-Painting with Exemplar Generative Adversarial Networks[[paper](https://arxiv.org/pdf/1712.03999.pdf)][[review](https://github.com/varskann/papers/blob/master/reviews/EyeInPainting.md)]
 
 ### 2016
 - Net2Net: ACCELERATING LEARNING VIA KNOWLEDGE TRANSFER [[paper](https://arxiv.org/pdf/1511.05641.pdf)][[review](https://github.com/varskann/papers/blob/master/reviews/Net2Net.md)]
